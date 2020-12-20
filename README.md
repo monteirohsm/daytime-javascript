@@ -1,5 +1,5 @@
 # daytime-javascript
-Pequena aplicação utilizando JavaScript, no qual disponibiliza hora do dia, de acordo com o horário da máquina do usuário. 
+🗒 Small application using JavaScript, which shows the time according to the personal computer time of the user.
 <br>
 By <a href="https://www.cursoemvideo.com/">CursoEmVideo</a>
 
